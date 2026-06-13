@@ -14,8 +14,11 @@ A Python command-line game where the user tries to guess a randomly generated nu
 ## Expected Output
 
 ===== NUMBER GUESSING GAME =====
+
+
 I have selected a number between 1 and 100.
 Try to guess it!
+
 Enter your guess: 50
 Too Low! Try again.
 
