@@ -11,11 +11,11 @@ A Python command-line game where the user tries to guess a randomly generated nu
 - Too High / Too Low hints
 - Attempt counter
 - Invalid input handling
+## Expected Output
 
 ===== NUMBER GUESSING GAME =====
 I have selected a number between 1 and 100.
 Try to guess it!
- ### Expected Output
 Enter your guess: 50
 Too Low! Try again.
 
